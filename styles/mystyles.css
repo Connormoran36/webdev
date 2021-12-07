@@ -1,0 +1,18 @@
+body{
+    color:black;
+    font-family: papyrus;
+}
+
+h2{
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.post-title{
+    color: red;
+    font-family: fantasy;
+}
+.resumelist{
+    font-size:12pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
