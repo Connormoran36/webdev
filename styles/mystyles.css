@@ -9,10 +9,10 @@ h2{
 }
 
 .post-title{
-    color: red;
+    color: blueviolet;
     font-family: fantasy;
 }
 .resumelist{
-    font-size:12pt;
+    font-size:1rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
