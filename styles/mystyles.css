@@ -1,6 +1,6 @@
 body{
     color:black;
-    font-family: papyrus;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h2{
@@ -9,10 +9,56 @@ h2{
 }
 
 .post-title{
-    color: blueviolet;
-    font-family: fantasy;
+    color:steelblue;
+    font-family:'Courier New', Courier, monospace;
 }
 .resumelist{
     font-size:1rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5px;
+}
+
+.bg{
+    background-image: url('../images/snowflakebg.jpg');
+}
+
+.treebg{
+    background-image: url('../images/treebg.jpg');
+    background-position: right;
+    background-size: 500px;
+    background-repeat: no-repeat;
+}
+
+.coolfontz{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: purple;
+}
+
+.tablehead{
+    font-size:30px;
+}
+
+h3{
+    font-family:'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+.whatilove{
+    padding:2px;
+    margin-left: 5px;
+    max-width: 45%;
+    height: auto;
+}
+
+.bbqsize{
+    height: 300px;
+}
+
+.link{
+    text-decoration: underline;
+}
+
+.indexheading{
+    font-family: "Bakbak One";
+    font-size: 30px;
 }

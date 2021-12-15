@@ -1,0 +1,67 @@
+/* main divisions here*/
+.header{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    top: 130px;
+    right: 50 px;
+}
+
+.main{
+    resize: horizontal;
+}
+
+.footer{
+    resize: horizontal;
+    border: 10px black;
+    color: white;
+    background-color:rebeccapurple;
+}
+
+/* top menu area*/
+.menu{
+    position: absolute;
+    font-size:15px;
+    right: 5px;
+    left: 5px;
+    top: 5px;
+    height: 20px;
+    text-align: right;
+    color: white;
+    background-color:rebeccapurple;
+}
+
+/* captions on graphs */
+p.caption{
+    font-family: inherit;
+    background-color: rgb(191, 203, 211);
+    color:black;
+}
+
+/* change links to not be underlined*/
+a {
+    text-decoration: none;
+}
+
+/* space out menu links*/
+.barmenu{
+    right: 40px;
+}
+
+.aboutmenu{
+    right: 5px;
+}
+
+.homemenu{
+    right: 50px;
+}
+
+/* bottom of page link formatting*/
+.tableaulink{
+    text-decoration: underline;
+    color: white;
+}
+
+/* background */
+.bg{
+    background-image: url('../images/background.jpg');
+}
